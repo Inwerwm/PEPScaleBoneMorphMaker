@@ -1,0 +1,2 @@
+# PEPScaleBoneMorphMaker
+倍率で拡縮するボーンモーフを作成するPMXEditorプラグイン
